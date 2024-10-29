@@ -1,6 +1,6 @@
 # Sales Analyst scenario
 
-_You can see an overview of my project via the Power BI service link_: https://app.powerbi.com/links/sB7IlnZVVw?ctid=91c83404-4987-4d7d-a78b-5a659a2edcb8&pbi_source=linkShare&bookmarkGuid=2d066334-df4b-47ad-980d-47b5f7b95dd2
+_You can see an overview of my project via the Power BI service link_: https://app.powerbi.com/groups/8ed61409-4fd5-4490-9aa5-bd8b4009c50c/reports/9ae5771d-6561-4dd2-afd5-6b2780bc9c48/ReportSection97d1e7eba8d36f03b599?experience=power-bi
 
 # Example Business Request - Mail from Steven
 Steven  - Sales Manager:
